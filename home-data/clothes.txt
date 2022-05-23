@@ -1,0 +1,3050 @@
+/* Export Start */
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:07:24 GMT+06:00 2022
+Response time: Mon May 23 12:07:24 GMT+06:00 2022
+Duration: 140 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:07:24 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.9552754640461186
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:07:26 GMT+06:00 2022
+Response time: Mon May 23 12:07:26 GMT+06:00 2022
+Duration: 132 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:07:26 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.5648110958539677
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:07:28 GMT+06:00 2022
+Response time: Mon May 23 12:07:28 GMT+06:00 2022
+Duration: 536 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:07:28 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.9155401746989514
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:07:30 GMT+06:00 2022
+Response time: Mon May 23 12:07:30 GMT+06:00 2022
+Duration: 117 ms
+
+Request size: 0 B
+Response size: 25 B
+Total size: 25 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:07:30 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 25
+Connection: keep-alive
+
+Hello 0.40982141099833225
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:07:32 GMT+06:00 2022
+Response time: Mon May 23 12:07:32 GMT+06:00 2022
+Duration: 140 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:07:32 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.9872021875488624
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:07:34 GMT+06:00 2022
+Response time: Mon May 23 12:07:34 GMT+06:00 2022
+Duration: 135 ms
+
+Request size: 0 B
+Response size: 25 B
+Total size: 25 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:07:34 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 25
+Connection: keep-alive
+
+Hello 0.06785382301846554
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:07:36 GMT+06:00 2022
+Response time: Mon May 23 12:07:36 GMT+06:00 2022
+Duration: 186 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:07:36 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.8586330539213649
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:07:38 GMT+06:00 2022
+Response time: Mon May 23 12:07:38 GMT+06:00 2022
+Duration: 301 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:07:38 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.1874352518190311
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:07:40 GMT+06:00 2022
+Response time: Mon May 23 12:07:40 GMT+06:00 2022
+Duration: 181 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:07:40 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.7264127503397457
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:07:42 GMT+06:00 2022
+Response time: Mon May 23 12:07:42 GMT+06:00 2022
+Duration: 334 ms
+
+Request size: 0 B
+Response size: 25 B
+Total size: 25 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:07:42 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 25
+Connection: keep-alive
+
+Hello 0.23194837284497594
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:07:44 GMT+06:00 2022
+Response time: Mon May 23 12:07:44 GMT+06:00 2022
+Duration: 140 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:07:44 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.3474007451538027
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:07:46 GMT+06:00 2022
+Response time: Mon May 23 12:07:46 GMT+06:00 2022
+Duration: 359 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:07:46 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.5673686129573361
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:07:48 GMT+06:00 2022
+Response time: Mon May 23 12:07:48 GMT+06:00 2022
+Duration: 361 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:07:48 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.7867283170404952
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:07:50 GMT+06:00 2022
+Response time: Mon May 23 12:07:50 GMT+06:00 2022
+Duration: 133 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:07:50 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.6006168665225056
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:07:52 GMT+06:00 2022
+Response time: Mon May 23 12:07:52 GMT+06:00 2022
+Duration: 496 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:07:52 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.8015779163385546
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:07:54 GMT+06:00 2022
+Response time: Mon May 23 12:07:54 GMT+06:00 2022
+Duration: 424 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:07:54 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.6759778175294915
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:07:56 GMT+06:00 2022
+Response time: Mon May 23 12:07:56 GMT+06:00 2022
+Duration: 483 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:07:56 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.2803009279774774
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:07:58 GMT+06:00 2022
+Response time: Mon May 23 12:07:58 GMT+06:00 2022
+Duration: 415 ms
+
+Request size: 0 B
+Response size: 25 B
+Total size: 25 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:07:58 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 25
+Connection: keep-alive
+
+Hello 0.19780648237090548
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:00 GMT+06:00 2022
+Response time: Mon May 23 12:08:00 GMT+06:00 2022
+Duration: 492 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:00 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.8807555475309071
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:02 GMT+06:00 2022
+Response time: Mon May 23 12:08:02 GMT+06:00 2022
+Duration: 483 ms
+
+Request size: 0 B
+Response size: 25 B
+Total size: 25 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:02 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 25
+Connection: keep-alive
+
+Hello 0.37622652047470573
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:04 GMT+06:00 2022
+Response time: Mon May 23 12:08:04 GMT+06:00 2022
+Duration: 363 ms
+
+Request size: 0 B
+Response size: 25 B
+Total size: 25 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:04 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 25
+Connection: keep-alive
+
+Hello 0.18261658971279737
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:06 GMT+06:00 2022
+Response time: Mon May 23 12:08:06 GMT+06:00 2022
+Duration: 455 ms
+
+Request size: 0 B
+Response size: 25 B
+Total size: 25 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:06 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 25
+Connection: keep-alive
+
+Hello 0.10193231445585638
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:08 GMT+06:00 2022
+Response time: Mon May 23 12:08:08 GMT+06:00 2022
+Duration: 322 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:08 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.1472473078699469
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:10 GMT+06:00 2022
+Response time: Mon May 23 12:08:10 GMT+06:00 2022
+Duration: 334 ms
+
+Request size: 0 B
+Response size: 25 B
+Total size: 25 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:10 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 25
+Connection: keep-alive
+
+Hello 0.15185773507485845
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:12 GMT+06:00 2022
+Response time: Mon May 23 12:08:12 GMT+06:00 2022
+Duration: 168 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:12 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.5063831040047297
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:14 GMT+06:00 2022
+Response time: Mon May 23 12:08:14 GMT+06:00 2022
+Duration: 428 ms
+
+Request size: 0 B
+Response size: 25 B
+Total size: 25 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:14 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 25
+Connection: keep-alive
+
+Hello 0.21327131932926668
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:16 GMT+06:00 2022
+Response time: Mon May 23 12:08:16 GMT+06:00 2022
+Duration: 286 ms
+
+Request size: 0 B
+Response size: 26 B
+Total size: 26 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:16 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 26
+Connection: keep-alive
+
+Hello 0.024682277210346326
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:18 GMT+06:00 2022
+Response time: Mon May 23 12:08:18 GMT+06:00 2022
+Duration: 336 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:18 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.3626797074051836
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:20 GMT+06:00 2022
+Response time: Mon May 23 12:08:20 GMT+06:00 2022
+Duration: 389 ms
+
+Request size: 0 B
+Response size: 25 B
+Total size: 25 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:20 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 25
+Connection: keep-alive
+
+Hello 0.11765506026088757
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:22 GMT+06:00 2022
+Response time: Mon May 23 12:08:22 GMT+06:00 2022
+Duration: 178 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:22 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.2516920283836114
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:24 GMT+06:00 2022
+Response time: Mon May 23 12:08:24 GMT+06:00 2022
+Duration: 213 ms
+
+Request size: 0 B
+Response size: 23 B
+Total size: 23 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:24 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 23
+Connection: keep-alive
+
+Hello 0.437513490324104
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:26 GMT+06:00 2022
+Response time: Mon May 23 12:08:26 GMT+06:00 2022
+Duration: 227 ms
+
+Request size: 0 B
+Response size: 25 B
+Total size: 25 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:26 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 25
+Connection: keep-alive
+
+Hello 0.36559908602784175
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:28 GMT+06:00 2022
+Response time: Mon May 23 12:08:28 GMT+06:00 2022
+Duration: 344 ms
+
+Request size: 0 B
+Response size: 25 B
+Total size: 25 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:28 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 25
+Connection: keep-alive
+
+Hello 0.11206608073817714
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:30 GMT+06:00 2022
+Response time: Mon May 23 12:08:30 GMT+06:00 2022
+Duration: 364 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:30 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.8662676424748477
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:32 GMT+06:00 2022
+Response time: Mon May 23 12:08:32 GMT+06:00 2022
+Duration: 352 ms
+
+Request size: 0 B
+Response size: 23 B
+Total size: 23 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:32 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 23
+Connection: keep-alive
+
+Hello 0.608078039476043
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:34 GMT+06:00 2022
+Response time: Mon May 23 12:08:34 GMT+06:00 2022
+Duration: 441 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:34 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.9195640664145232
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:36 GMT+06:00 2022
+Response time: Mon May 23 12:08:36 GMT+06:00 2022
+Duration: 493 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:36 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.8662122356049693
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:38 GMT+06:00 2022
+Response time: Mon May 23 12:08:38 GMT+06:00 2022
+Duration: 471 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:38 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.5377176686257746
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:40 GMT+06:00 2022
+Response time: Mon May 23 12:08:40 GMT+06:00 2022
+Duration: 336 ms
+
+Request size: 0 B
+Response size: 25 B
+Total size: 25 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:40 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 25
+Connection: keep-alive
+
+Hello 0.49704183796760626
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:42 GMT+06:00 2022
+Response time: Mon May 23 12:08:42 GMT+06:00 2022
+Duration: 322 ms
+
+Request size: 0 B
+Response size: 25 B
+Total size: 25 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:42 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 25
+Connection: keep-alive
+
+Hello 0.34699331842222025
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:44 GMT+06:00 2022
+Response time: Mon May 23 12:08:44 GMT+06:00 2022
+Duration: 547 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:44 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.4666261419861284
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:46 GMT+06:00 2022
+Response time: Mon May 23 12:08:46 GMT+06:00 2022
+Duration: 498 ms
+
+Request size: 0 B
+Response size: 25 B
+Total size: 25 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:46 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 25
+Connection: keep-alive
+
+Hello 0.03449093571339357
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:48 GMT+06:00 2022
+Response time: Mon May 23 12:08:49 GMT+06:00 2022
+Duration: 661 ms
+
+Request size: 0 B
+Response size: 23 B
+Total size: 23 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:48 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 23
+Connection: keep-alive
+
+Hello 0.911284611342836
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:50 GMT+06:00 2022
+Response time: Mon May 23 12:08:50 GMT+06:00 2022
+Duration: 496 ms
+
+Request size: 0 B
+Response size: 25 B
+Total size: 25 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:50 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 25
+Connection: keep-alive
+
+Hello 0.10509740256249878
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:52 GMT+06:00 2022
+Response time: Mon May 23 12:08:53 GMT+06:00 2022
+Duration: 636 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:52 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.6135337112781747
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:54 GMT+06:00 2022
+Response time: Mon May 23 12:08:54 GMT+06:00 2022
+Duration: 480 ms
+
+Request size: 0 B
+Response size: 26 B
+Total size: 26 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:54 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 26
+Connection: keep-alive
+
+Hello 0.001515319292742734
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:56 GMT+06:00 2022
+Response time: Mon May 23 12:08:56 GMT+06:00 2022
+Duration: 495 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:56 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.6242602145692495
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:08:58 GMT+06:00 2022
+Response time: Mon May 23 12:08:58 GMT+06:00 2022
+Duration: 416 ms
+
+Request size: 0 B
+Response size: 25 B
+Total size: 25 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:08:58 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 25
+Connection: keep-alive
+
+Hello 0.03378528188082386
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:09:00 GMT+06:00 2022
+Response time: Mon May 23 12:09:00 GMT+06:00 2022
+Duration: 387 ms
+
+Request size: 0 B
+Response size: 25 B
+Total size: 25 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:00 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 25
+Connection: keep-alive
+
+Hello 0.18233635350168886
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:09:02 GMT+06:00 2022
+Response time: Mon May 23 12:09:02 GMT+06:00 2022
+Duration: 354 ms
+
+Request size: 0 B
+Response size: 25 B
+Total size: 25 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:02 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 25
+Connection: keep-alive
+
+Hello 0.03185454280437183
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:09:04 GMT+06:00 2022
+Response time: Mon May 23 12:09:04 GMT+06:00 2022
+Duration: 274 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:04 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.5248600151228272
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:09:06 GMT+06:00 2022
+Response time: Mon May 23 12:09:06 GMT+06:00 2022
+Duration: 173 ms
+
+Request size: 0 B
+Response size: 25 B
+Total size: 25 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:06 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 25
+Connection: keep-alive
+
+Hello 0.45892446540452636
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 200 
+SSL: No
+
+Request time: Mon May 23 12:09:08 GMT+06:00 2022
+Response time: Mon May 23 12:09:08 GMT+06:00 2022
+Duration: 313 ms
+
+Request size: 0 B
+Response size: 24 B
+Total size: 24 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:08 GMT
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 24
+Connection: keep-alive
+
+Hello 0.4844995765089226
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:10 GMT+06:00 2022
+Response time: Mon May 23 12:09:11 GMT+06:00 2022
+Duration: 1158 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:12 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:12 GMT+06:00 2022
+Response time: Mon May 23 12:09:13 GMT+06:00 2022
+Duration: 1148 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:13 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:14 GMT+06:00 2022
+Response time: Mon May 23 12:09:15 GMT+06:00 2022
+Duration: 1141 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:15 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:16 GMT+06:00 2022
+Response time: Mon May 23 12:09:17 GMT+06:00 2022
+Duration: 1166 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:17 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:18 GMT+06:00 2022
+Response time: Mon May 23 12:09:19 GMT+06:00 2022
+Duration: 1130 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:19 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:20 GMT+06:00 2022
+Response time: Mon May 23 12:09:21 GMT+06:00 2022
+Duration: 1345 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:21 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:22 GMT+06:00 2022
+Response time: Mon May 23 12:09:22 GMT+06:00 2022
+Duration: 328 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:22 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:24 GMT+06:00 2022
+Response time: Mon May 23 12:09:24 GMT+06:00 2022
+Duration: 249 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:24 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:26 GMT+06:00 2022
+Response time: Mon May 23 12:09:26 GMT+06:00 2022
+Duration: 141 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:26 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:28 GMT+06:00 2022
+Response time: Mon May 23 12:09:28 GMT+06:00 2022
+Duration: 159 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:28 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:30 GMT+06:00 2022
+Response time: Mon May 23 12:09:30 GMT+06:00 2022
+Duration: 279 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:30 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:32 GMT+06:00 2022
+Response time: Mon May 23 12:09:32 GMT+06:00 2022
+Duration: 275 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:32 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:34 GMT+06:00 2022
+Response time: Mon May 23 12:09:34 GMT+06:00 2022
+Duration: 133 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:35 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:36 GMT+06:00 2022
+Response time: Mon May 23 12:09:36 GMT+06:00 2022
+Duration: 118 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:36 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:38 GMT+06:00 2022
+Response time: Mon May 23 12:09:38 GMT+06:00 2022
+Duration: 152 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:39 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:40 GMT+06:00 2022
+Response time: Mon May 23 12:09:40 GMT+06:00 2022
+Duration: 132 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:41 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:42 GMT+06:00 2022
+Response time: Mon May 23 12:09:42 GMT+06:00 2022
+Duration: 211 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:42 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:44 GMT+06:00 2022
+Response time: Mon May 23 12:09:44 GMT+06:00 2022
+Duration: 170 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:44 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:46 GMT+06:00 2022
+Response time: Mon May 23 12:09:46 GMT+06:00 2022
+Duration: 181 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:47 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:48 GMT+06:00 2022
+Response time: Mon May 23 12:09:48 GMT+06:00 2022
+Duration: 120 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:48 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:50 GMT+06:00 2022
+Response time: Mon May 23 12:09:50 GMT+06:00 2022
+Duration: 161 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:51 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:52 GMT+06:00 2022
+Response time: Mon May 23 12:09:52 GMT+06:00 2022
+Duration: 164 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:52 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:54 GMT+06:00 2022
+Response time: Mon May 23 12:09:54 GMT+06:00 2022
+Duration: 129 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:55 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:56 GMT+06:00 2022
+Response time: Mon May 23 12:09:56 GMT+06:00 2022
+Duration: 141 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:57 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:09:58 GMT+06:00 2022
+Response time: Mon May 23 12:09:58 GMT+06:00 2022
+Duration: 145 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:09:59 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:10:00 GMT+06:00 2022
+Response time: Mon May 23 12:10:00 GMT+06:00 2022
+Duration: 131 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:10:01 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:10:02 GMT+06:00 2022
+Response time: Mon May 23 12:10:02 GMT+06:00 2022
+Duration: 139 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:10:03 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:10:04 GMT+06:00 2022
+Response time: Mon May 23 12:10:04 GMT+06:00 2022
+Duration: 135 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:10:05 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:10:06 GMT+06:00 2022
+Response time: Mon May 23 12:10:06 GMT+06:00 2022
+Duration: 144 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:10:07 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:10:08 GMT+06:00 2022
+Response time: Mon May 23 12:10:08 GMT+06:00 2022
+Duration: 158 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:10:09 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:10:10 GMT+06:00 2022
+Response time: Mon May 23 12:10:10 GMT+06:00 2022
+Duration: 129 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:10:11 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:10:12 GMT+06:00 2022
+Response time: Mon May 23 12:10:12 GMT+06:00 2022
+Duration: 134 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:10:13 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:10:14 GMT+06:00 2022
+Response time: Mon May 23 12:10:14 GMT+06:00 2022
+Duration: 130 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:10:15 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:10:16 GMT+06:00 2022
+Response time: Mon May 23 12:10:16 GMT+06:00 2022
+Duration: 157 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:10:17 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:10:18 GMT+06:00 2022
+Response time: Mon May 23 12:10:18 GMT+06:00 2022
+Duration: 131 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:10:19 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:10:20 GMT+06:00 2022
+Response time: Mon May 23 12:10:20 GMT+06:00 2022
+Duration: 121 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:10:21 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+==================
+URL: http://164.92.153.55:8080/get?51.1176113&71.4142374
+Method: GET
+Protocol: http/1.1
+Status: Complete
+Response: 502 Bad Gateway
+SSL: No
+
+Request time: Mon May 23 12:10:22 GMT+06:00 2022
+Response time: Mon May 23 12:10:22 GMT+06:00 2022
+Duration: 143 ms
+
+Request size: 0 B
+Response size: 157 B
+Total size: 157 B
+
+---------- Request ----------
+
+X-TYPE: 4G
+
+(body is empty)
+
+---------- Response ----------
+
+Server: nginx/1.21.6
+Date: Mon, 23 May 2022 06:10:23 GMT
+Content-Type: text/html
+Content-Length: 157
+Connection: keep-alive
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.21.6</center>
+</body>
+</html>
+
+/* Export End */
