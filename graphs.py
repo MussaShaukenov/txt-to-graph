@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 from statistics import mean
 
 
+# this function reads txt file and converts it to dictionary {number of request: duration time}
 def convert_txt_into_dict(file):
     lines = file.readlines()
     counter = 1
@@ -16,10 +17,12 @@ def convert_txt_into_dict(file):
     return d
 
 
+# this function calculates the mean value of a test
 def mean_value(d):
     return mean(d.values())
 
 
+# this function displays only 50 requests
 def correct_dict_values(d):
     counter = 1
     correct_dict = {}
@@ -31,6 +34,7 @@ def correct_dict_values(d):
     return {k: correct_dict[k] for k in list(correct_dict)[:50]}
 
 
+# this function plots a graph
 def plot(d, color, label):
     x = [x for x in range(len(d))]
     y = d.values()
@@ -43,7 +47,6 @@ one_layer_foil = correct_dict_values(convert_txt_into_dict(open('hardware/one-la
 two_layer_foil = correct_dict_values(convert_txt_into_dict(open('hardware/two-layer-foil.txt')))
 three_layer_foil = correct_dict_values(convert_txt_into_dict(open('hardware/three-layer-foil.txt')))
 
-
 a = neutral_point
 d = one_layer_foil
 e = two_layer_foil
@@ -53,7 +56,6 @@ plot(a, 'r', '')
 plot(d, 'c', '')
 plot(e, 'm', '')
 plot(f, 'b', '')
-
 
 first_mean_value = int(mean_value(a))
 second_mean_value = int(mean_value(d))
