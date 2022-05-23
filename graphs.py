@@ -64,14 +64,14 @@ heavy_data_2g_high_env = correct_dict_values(convert_txt_into_dict(open('heavy-d
 heavy_data_2g_medium_env = correct_dict_values(convert_txt_into_dict(open('heavy-data/2g-medium-mb.txt')))
 heavy_data_2g_low_env = correct_dict_values(convert_txt_into_dict(open('heavy-data/2g-low-mb.txt')))
 
-# neutral_point = correct_dict_values(convert_txt_into_dict(open('home-data/neutral.txt')))
-# microwave = correct_dict_values(convert_txt_into_dict(open('home-data/microwave.txt')))
-# pan = correct_dict_values(convert_txt_into_dict(open('home-data/pan.txt')))
-# clothes = correct_dict_values(convert_txt_into_dict(open('home-data/clothes.txt')))
+neutral_point = correct_dict_values(convert_txt_into_dict(open('home-data/neutral.txt')))
+microwave = correct_dict_values(convert_txt_into_dict(open('home-data/microwave.txt')))
+pan = correct_dict_values(convert_txt_into_dict(open('home-data/pan.txt')))
+clothes = correct_dict_values(convert_txt_into_dict(open('home-data/clothes.txt')))
 
-neutral_point = correct_dict_values(convert_txt_into_dict(open('hardware/neutral.txt')))
-cupper_wire = correct_dict_values(convert_txt_into_dict(open('hardware/cupper-wire.txt')))
-aluminium_wire = correct_dict_values(convert_txt_into_dict(open('hardware/aliminum-wire.txt')))
+# neutral_point = correct_dict_values(convert_txt_into_dict(open('hardware/neutral.txt')))
+# cupper_wire = correct_dict_values(convert_txt_into_dict(open('hardware/cupper-wire.txt')))
+# aluminium_wire = correct_dict_values(convert_txt_into_dict(open('hardware/aliminum-wire.txt')))
 # one_layer_foil = correct_dict_values(convert_txt_into_dict(open('hardware/one-layer-foil.txt')))
 # two_layer_foil = correct_dict_values(convert_txt_into_dict(open('hardware/two-layer-foil.txt')))
 # three_layer_foil = correct_dict_values(convert_txt_into_dict(open('hardware/three-layer-foil.txt')))
@@ -80,16 +80,15 @@ aluminium_wire = correct_dict_values(convert_txt_into_dict(open('hardware/alimin
 # b = light_data_4g_medium_env
 # c = light_data_4g_low_env
 
-# a = neutral_point
-# b = microwave
-# c = pan
-# d = clothes
-
-
-
 a = neutral_point
-b = cupper_wire
-c = aluminium_wire
+b = microwave
+c = pan
+d = clothes
+
+
+# a = neutral_point
+# b = cupper_wire
+# c = aluminium_wire
 # d = one_layer_foil
 # e = two_layer_foil
 # f = three_layer_foil
@@ -97,23 +96,24 @@ c = aluminium_wire
 plot(a, 'r', '')
 plot(b, 'c', '')
 plot(c, 'm', '')
-# plot(d, 'b', '')
+plot(d, 'b', '')
 # plot(e, 'y', '')
 # plot(f, 'g', '')
-
 
 first_mean_value = int(mean_value(a))
 second_mean_value = int(mean_value(b))
 third_mean_value = int(mean_value(c))
-# forth_mean_value = int(mean_value(d))
+forth_mean_value = int(mean_value(d))
 # fifth_mean_value = int(mean_value(e))
 # sixth_mean_value = int(mean_value(f))
 
-
 plt.title('Hardware Solutions Comparison')
 
+# plt.gca().legend((f'Neutral point ({first_mean_value})', f'Cupper wire ({second_mean_value})',
+#                   f'Aluminium wire ({third_mean_value})', f'1 layer foil ({forth_mean_value})',
+#                   f'2 layer foil ({fifth_mean_value})', f'3 layer foil ({sixth_mean_value})'), loc='upper right')
 # plt.gca().legend((f'Neutral point ({first_mean_value})', f'Cupper wire ({second_mean_value})', f'Aluminium wire ({third_mean_value})', f'1 layer foil ({forth_mean_value})', f'2 layer foil ({fifth_mean_value})', f'3 layer foil ({sixth_mean_value})'), loc='upper right')
-plt.gca().legend((f'Neutral point ({first_mean_value})', f'Cupper wire ({second_mean_value})', f'Aluminium wire ({third_mean_value})'), loc='upper right')
+plt.gca().legend((f'Neutral point ({first_mean_value})', f'Microwave ({second_mean_value})', f'Pan ({third_mean_value})', f'Clothes ({forth_mean_value})'), loc='upper right')
 
 # plt.gca().legend((f'4G ({first_mean_value})', f' 3G({second_mean_value})', f' 2G({third_mean_value})'), loc='upper right')
 # plt.gca().legend((f'4G ({first_mean_value})', f' 3G({second_mean_value})'), loc='upper right')
