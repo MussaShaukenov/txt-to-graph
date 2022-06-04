@@ -26,9 +26,9 @@ def correct_dict_values(d):
     correct_dict = {}
 
     for v in d.values():
-        if (mean_value - 100) < v < (mean_value + 100):
-            correct_dict[counter] = v
-            counter += 1
+        # if (mean_value - 1000) < v < (mean_value + 1000):
+        correct_dict[counter] = v
+        counter += 1
 
     return {k: correct_dict[k] for k in list(correct_dict)[:50]}
 
@@ -80,6 +80,15 @@ android_two_g = correct_dict_values(convert_txt_into_dict(open('android studio d
 android_three_g = correct_dict_values(convert_txt_into_dict(open('android studio data/3g.txt')))
 android_four_g = correct_dict_values(convert_txt_into_dict(open('android studio data/4g.txt')))
 
+very_bad_connection = correct_dict_values(convert_txt_into_dict(open('network link conditioner data/very-bad-connection.txt')))
+nlc_edge = correct_dict_values(convert_txt_into_dict(open('network link conditioner data/2g.txt')))
+nlc_3g = correct_dict_values(convert_txt_into_dict(open('network link conditioner data/3g.txt')))
+
+kbps56 = correct_dict_values(convert_txt_into_dict(open('charles data/56kbps.txt')))
+kbps10 = correct_dict_values(convert_txt_into_dict(open('charles data/10kbps.txt')))
+kbps5 = correct_dict_values(convert_txt_into_dict(open('charles data/5kbps.txt')))
+
+
 # a = light_data_4g_high_env
 # b = light_data_4g_medium_env
 # c = light_data_4g_low_env
@@ -89,9 +98,13 @@ android_four_g = correct_dict_values(convert_txt_into_dict(open('android studio 
 # c = pan
 # d = clothes
 
-a = android_two_g
-b = android_three_g
-c = android_four_g
+# a = very_bad_connection
+# b = nlc_edge
+# c = nlc_3g
+
+a = kbps56
+b = kbps10
+c = kbps5
 
 # a = neutral_point
 # b = cupper_wire
@@ -114,11 +127,12 @@ third_mean_value = int(mean_value(c))
 # fifth_mean_value = int(mean_value(e))
 # sixth_mean_value = int(mean_value(f))
 
-plt.title('Android Studio Simulation Comparison')
+plt.title('Charles Proxy Comparison')
 #
-plt.gca().legend((f'2G ({first_mean_value})',
-                  f'3G ({third_mean_value})',
-                  f'4G ({second_mean_value})',), loc='upper right')
+plt.gca().legend((f'56 kbps ({first_mean_value})',
+                  f'10 kbps ({second_mean_value})',
+                    f'5 kpbs ({third_mean_value})'),
+                 loc='upper right')
 # plt.gca().legend((f'Neutral point ({first_mean_value})', f'Cupper wire ({second_mean_value})', f'Aluminium wire ({third_mean_value})'), loc='upper right')
 
 # plt.gca().legend((f'Neutral point ({first_mean_value})', f'Cupper wire ({second_mean_value})', f'Aluminium wire ({third_mean_value})', f'1 layer foil ({forth_mean_value})', f'2 layer foil ({fifth_mean_value})', f'3 layer foil ({sixth_mean_value})'), loc='upper right')
@@ -129,4 +143,17 @@ plt.gca().legend((f'2G ({first_mean_value})',
 
 # plt.gca().legend((f'High env ({first_mean_value})', f'Medium env ({second_mean_value})', f'Low env'), loc='upper right')
 
-plt.show()
+# plt.show()
+
+with open('charles data/10kbps.txt') as file:
+    lines = file.readlines()
+    d = []
+
+    for i in lines:
+        if i.startswith('Duration:'):
+            for time in i.split():
+                if time.isdigit():
+                    if int(time) > 1200:
+                        print(time)
+
+print(d)
