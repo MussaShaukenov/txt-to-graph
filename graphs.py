@@ -31,7 +31,7 @@ def correct_dict_values(d):
         correct_dict[counter] = v
         counter += 1
 
-    return {k: correct_dict[k] for k in list(correct_dict)[:50]}
+    return {k: correct_dict[k] for k in list(correct_dict)[:40]}
 
 
 # this function plots a graph
